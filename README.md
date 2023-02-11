@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsMarydan
-- 👀 DevOps, DataModeling and Visualization, Web Application Development, Kubernetes, AWS, API Gateway Solutions, Microservice Architecture and Patterns, and SAAS Development are all areas of interest for me. 
+- 👀 DevOps, DataModeling and Visualization, Web Application Development, Kubernetes, Service Mesh, AWS, API Gateway Solutions, Microservice Architecture and Patterns, and SAAS Development are all areas of interest for me. 
 - 🌱 I'm currently working on solutions that use API Gateways to manage Authentication in a Microservice Architecture. 
-- 💞️ I’m looking to collaborate on SaaS Development and Cloud Service Deployment Automation
+- 💞️ I’m looking to collaborate on SaaS Development and Cloud Service Deployment Automation, CI/CD, Kubernetes architecture
 - 📫 How to reach me ...  olowu004@umn.edu
 
 <!---
